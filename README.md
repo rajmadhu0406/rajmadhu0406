@@ -1,5 +1,5 @@
 # 💫 About Me:
-Crafting Quality Code, One Line at a Time.<br><br>Hi, I’m Raj, a final-year Master of Science in Computer Science at <br>NC State. Innovative and results-driven Software Engineer with <br>extensive experience Full-Stack Development, Cloud Computing<br>and Machine Learning. I’m passionate about applying my skills to <br>drive innovative solutions and tackle complex challenges. Known <br>for my problem-solving abilities and project ownership, I excel at <br>taking ideas from concept to completion. I’m excited to bring my <br>expertise and enthusiasm to impactful projects that shape the <br>future of technology.<br><br>
+Crafting Quality Code, One Line at a Time.Hi, I’m Raj, a final-year Master of Science in Computer Science at NC State. Innovative and results-driven Software Engineer with extensive experience Full-Stack Development, Cloud Computing<br>and Machine Learning. I’m passionate about applying my skills to drive innovative solutions and tackle complex challenges. Known for my problem-solving abilities and project ownership, I excel at taking ideas from concept to completion. I’m excited to bring my expertise and enthusiasm to impactful projects that shape the <br>future of technology.<br>
 
 
 ## 🌐 Socials:
