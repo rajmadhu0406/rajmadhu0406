@@ -1,6 +1,21 @@
 # 💫 About Me:
-Crafting Quality Code, One Line at a Time.Hi, I’m Raj, a final-year Master of Science in Computer Science at NC State. Innovative and results-driven Software Engineer with extensive experience Full-Stack Development, Cloud Computing and Machine Learning. I’m passionate about applying my skills to drive innovative solutions and tackle complex challenges. Known for my problem-solving abilities and project ownership, I excel at taking ideas from concept to completion. I’m excited to bring my expertise and enthusiasm to impactful projects that shape the future of technology.<br>
+Hi, I’m Raj, a final-year Master’s student in Computer Science at NC State. With a strong foundation in software development and research, I’m passionate about applying my skills to drive innovative solutions and tackle complex challenges. Known for my problem-solving abilities and project ownership, I excel at taking ideas from concept to completion. I’m excited to bring my expertise and enthusiasm to impactful projects that shape the future of technology.
 
+About me...
+
+🎖️ 66th National Rank in ACM ICPC coding contest out of 12,000+ participating teams. <br>
+🎖️ 1769 Global Rank (4 stars) on coding platform, Codechef. <br>
+🎖️ Won 2nd Position in Smart India Hackathon among 45+ teams for building an App that detects Plant Diseases with 98.64% accuracy.<br>
+🎖️ Successfully completed multiple internships, research endeavors, freelance and open-source projects.<br>
+🎖️ Contributions to open-source repositories and programs like GWOC, Expertiza and Hacktoberfest.<br>
+🎖️ Experience working in fast-paced startups.<br>
+
+**Languages**:	Python, Java, Go, JavaScript, C++, Ruby, PHP, SQL <br>
+**Web**:	 FastAPI, Flask, Spring Boot, React, Hibernate, NPM, Rest APIs, GraphQL, HTML, Swagger  <br>
+**DevOps**:	 AWS, Azure, Kubernetes, Docker, Ansible, Jenkins, Terraform, Linux, CI/CD, Nginx, Load Balancing <br>
+**Databases**:	PostgreSQL, Elasticsearch, Kibana, Redis, DynamoDB, Aurora, MongoDB, Prometheus <br>
+**Others**:	Git, Unit Test, Microservice, Backend, Agile SDLC, A/B testing, Integration Testing <br>
+𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: PyTorch, TensorFlow, Keras, NLTK, Hugging Face, Transformers, LSTM, Data Analysis, Feature extraction <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-madhu) 
